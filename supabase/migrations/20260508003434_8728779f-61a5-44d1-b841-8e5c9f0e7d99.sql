@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.close_expired_auctions() FROM PUBLIC, anon, authenticated;
